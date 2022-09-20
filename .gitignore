@@ -31,7 +31,7 @@ yarn-error.log
 *.swp
 npm-debug.log*
 dist
-node_modules
+node_modules/
 coverage
 .coveralls.yml
 .npm

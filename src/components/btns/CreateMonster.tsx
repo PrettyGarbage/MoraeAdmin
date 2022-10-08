@@ -4,7 +4,7 @@ import * as events from "events";
 import React from "react";
 
 function CreateMonster() {
-    const days = userFetch("http://localhost:3001/days");
+    const days = userFetch("http://localhost:3001/monsters");
     const history = useNavigate();
 
     function onSubmit(event: React.FormEvent<HTMLFormElement>)

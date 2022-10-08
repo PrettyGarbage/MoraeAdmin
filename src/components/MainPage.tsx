@@ -1,8 +1,11 @@
+
 export default function MainPage()
 {
     return (
         <>
-        <h1>Main Page 임 아직 안꾸밈</h1>
+        <h3>
+            현재 개발중 뷍진현은 당연히 아웃
+        </h3>
 
         </>
     )
